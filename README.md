@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Games by Fyggh
+
+### HTML5 Games
+
+[Dodge the Creeps](https://fyggh.github.io/games/html/dodgethecreeps/Dodge%20the%20Creeps.html)
 
 You can use the [editor on GitHub](https://github.com/Fyggh/games/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
